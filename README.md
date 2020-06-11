@@ -1,5 +1,5 @@
 # D4L-RAT
-![Made with Python](https://img.shields.io/badge/Написано%20на-Python-3572A5.svg)![Label](https://img.shields.io/badge/D4L--RAT-BigBrotherIsWatchingYou-red?style=flat-square&logo=appveyor)
+![Made with Python](https://img.shields.io/badge/Написано%20на-Python-blue?style=flat-square&logo=appveyor) ![Label](https://img.shields.io/badge/D4L--RAT-BigBrotherIsWatchingYou-red?style=flat-square&logo=appveyor)
 
 Remote Administration Tool через Telegram(Python 3.7)
 
